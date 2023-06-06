@@ -13,6 +13,7 @@ https://colab.research.google.com/drive/1qKamnDiRmpRZkpiqWPkunBdAhmzhMcGz?usp=sh
 
 '''
 
+
 import random
 lst = ['robot'] * 10
 lst += ['human'] * 10
